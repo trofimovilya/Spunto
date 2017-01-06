@@ -1,0 +1,2 @@
+# Spunto
+Hammerspoon plugin
