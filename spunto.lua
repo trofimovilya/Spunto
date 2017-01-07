@@ -62,7 +62,7 @@ function initDict(filename)
 end
 
 function replace(original)
-  if dictionary == null then
+  if dictionary == nil then
     hs.notify.new({
       title = "Spunto",
       informativeText = "Dictionary is not loaded."
